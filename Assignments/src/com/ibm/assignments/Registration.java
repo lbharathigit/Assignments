@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Registertion {
+public class Registration {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
